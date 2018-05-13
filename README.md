@@ -17,7 +17,9 @@ Progressive Web Apps and Service Worker supported browsers
 &nbsp;
 &nbsp;
 &nbsp;
+&nbsp;
   <img src="https://image.flaticon.com/icons/svg/123/123381.svg" alt="Beta/Partial" width="32px" height="32px" /> Beta/Partial
+&nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
